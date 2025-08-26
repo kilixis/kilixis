@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kilixis" alt="kilixis" /></a> </p>
 
-- Currently working on **Ephemerus**[hiatus]
+- Currently working on **Ephemerus**[indefinite hiatus]
 
 - Currently learning **React**
 

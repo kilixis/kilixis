@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Shaurya</h1>
-<h3 align="center">Frontend+Python+C# dev</h3>
+<h3 align="center">Web developer who tampers with low level programming periodically</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilixis&label=Profile%20views&color=0e75b6&style=flat" alt="kilixis" /> </p>
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilixis&label=Profile%20views&color=0e75b6&style=flat" alt="kilixis" /> </p>
 
-- Currently working on **nothing(just finished Metisnotes)**
+- Currently working on **nothing(just finished metisnotes)**
 - Try out __metisnotes__ [here](https://metisnotes.vercel.app/)
 
 - Email me at **shauryabhalla.fr@gmail.com**

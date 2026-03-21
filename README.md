@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kilixis&label=Profile%20views&color=0e75b6&style=flat" alt="kilixis" /> </p>
 
-- Currently working on **Odysseus**
+- Currently working on **nothing(just finished Metisnotes)**
+- Try out metis at metisnotes.vercel.app
 
-- Currently learning **React**
-
-- 📫 How to reach me **shauryabhalla.fr@gmail.com**
+- Message me at **shauryabhalla.fr@gmail.com**
 
 <p align="left">
 </p>

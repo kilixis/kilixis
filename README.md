@@ -6,7 +6,7 @@
 - Currently working on **nothing(just finished Metisnotes)**
 - Try out __metisnotes__ [here](https://metisnotes.vercel.app/)
 
-- Message me at **shauryabhalla.fr@gmail.com**
+- Email me at **shauryabhalla.fr@gmail.com**
 
 <p align="left">
 </p>

@@ -1,4 +1,10 @@
-<h1 align="center">Hey, I'm Shaurya</h1>
-<h3 align="center">Web developer who tampers with low level programming periodically</h3>
+<h1>Shaurya</h1>
+<h3>16 year old programmer with an interest in algorithms and web architecture. I mostly use vanilla stack for web projects and python/c++ for other projects.</h3>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<h1>Projects</h1>
+[metis](https://metisnotes.vercel.app/), 70% finished **[INDEFINITE HIATUS]**
+[relief.net](https://github.com/kilixis/Relief.net-actual), outdated project made for a hackathon **[FINISHED]**
+[end-tasks](https://github.com/kilixis/end-tasks), simple script in python **[FINISHED]**
+[TaskAI](https://github.com/kilixis/TaskAI), Gemini-powered powerful tool to optimize ram, needs updated credentials **[FINISHED]**
+
+I swear I have more recent repos they're just not public

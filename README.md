@@ -1,6 +1,6 @@
 # Shaurya
 
-### 16 year old programmer with an interest in algorithms and web architecture. I mostly use vanilla stack for web projects and Python/C++ for other projects
+16 year old programmer with an interest in algorithms and web architecture. I mostly use vanilla stack for web projects and Python/C++ for other projects
 
 # Projects
 

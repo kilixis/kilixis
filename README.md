@@ -1,6 +1,6 @@
 # Shaurya
 
-### 16 year old programmer with an interest in algorithms and web architecture. I mostly use vanilla stack for web projects and Python/C++ for other projects.
+### 16 year old programmer with an interest in algorithms and web architecture. I mostly use vanilla stack for web projects and Python/C++ for other projects
 
 # Projects
 
@@ -9,4 +9,4 @@
 - [end-tasks](https://github.com/kilixis/end-tasks) - Simple script in Python **[FINISHED]**
 - [TaskAI](https://github.com/kilixis/TaskAI) - Gemini-powered tool to optimize RAM, needs updated credentials **[FINISHED]**
 
-I swear I have more recent repos. They're just not public.
+I swear I have more recent repos, they're just not public
